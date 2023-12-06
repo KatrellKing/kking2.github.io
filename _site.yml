@@ -1,0 +1,10 @@
+name: "My Website"
+navbar:
+  title: "Katrell King"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Languages I Know"
+      href: languages.html
+    - text: "Classes I've Taken"
+      href: classes.html
