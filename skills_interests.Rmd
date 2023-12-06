@@ -1,0 +1,28 @@
+---
+title: "Skills and Interests"
+---
+<b> Foreign Languages: </b> French - Level B2.1 (Upper Intermediate Fluency)
+<br>
+
+<p><b>Skills:</b>
+<ul>
+  <li>Social Science Data Coding (Inductive and Deductive)</li>
+  <li>Science Communication</li>
+  <li>Data Analysis – using Excel</li>
+  <li>Science Education</li>
+  <li>Project Management</li>
+  <li>Proficiency in Microsoft Office Suite</li>
+  <li>Basic Proficiency in R Programming</li>
+</ul>
+</p>
+
+<p><b> Certifications and Licenses:</b>
+<ul>
+  <li> CITI Program Responsible Conduct of Research - Social and Behavioral Responsible Conduct of Research Course 1 Certificate</li>
+  <li>PADI Advanced Open Water Diver</li>
+  <li>PADI Reef Rescue Diver</li>
+  <li>PADI AWARE Shark Conservation Diver</li>
+  <li>PADI AWARE Dive Against Debris Diver</li>
+</ul>
+</p>
+
